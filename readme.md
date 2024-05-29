@@ -1,9 +1,12 @@
 ## Welcome to BaoFamily 
 My favorite panda in BaoFamily is Aibao.
 
-### BaoFmaily member
-Aibao
-Lebao
-Fubao
-Ruibao
-Huibao
+### BaoFmaily member (panda)
+1.Aibao
+2.Lebao
+3.Fubao
+4.Ruibao
+5.Huibao
+
+### BaoFamily member (person
+-[x] Kangbao
