@@ -8,5 +8,5 @@ My favorite panda in BaoFamily is Aibao.
 4.Ruibao
 5.Huibao
 
-### BaoFamily member (person
--[x] Kangbao
+### BaoFamily member (person)
+- [x] Kangbao
