@@ -1,4 +1,6 @@
-![image](https://github.com/haebinKahng/4_repo/assets/44835710/4b7003c0-1ff2-4ca8-aef2-4eb2a9e4a464)## Welcome to BaoFamily 
+![image](https://github.com/haebinKahng/4_repo/assets/44835710/2dee28b7-c76a-4e60-ae36-e6151c7a7302)
+
+## Welcome to BaoFamily 
 My favorite panda in BaoFamily is Aibao.
 
 ### BaoFmaily member (panda)
@@ -13,5 +15,6 @@ My favorite panda in BaoFamily is Aibao.
 - [x] Songbao
 - [x] Ohbao 
 
+![image](https://github.com/haebinKahng/4_repo/assets/44835710/4b7003c0-1ff2-4ca8-aef2-4eb2a9e4a464)
 
 
