@@ -13,7 +13,5 @@ My favorite panda in BaoFamily is Aibao.
 - [x] Songbao
 - [x] Ohbao 
 
-![image](https://github.com/haebinKahng/4_repo/assets/44835710/277e14e0-55c4-48cf-90e4-26fe71722b64)
-
 
 
